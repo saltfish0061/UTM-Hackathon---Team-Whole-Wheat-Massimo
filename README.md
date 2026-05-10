@@ -8,22 +8,29 @@ GreenStack is a cutting-edge smart farming solution designed to optimize crop he
 
 ## 🚀 Key Features
 
-### 📡 Hardware & Smart Sensing
-*   **Continuous Monitoring:** 24/7 real-time tracking of environmental conditions.
-*   **Vital Metrics:** Precise monitoring of **Soil Moisture, Temperature, Humidity, pH Levels, and NPK Levels**.
-*   **IoT Integration:** Powered by WiFi-enabled Arduino controllers that stream raw data directly to our cloud API.
+### 📊 Advanced Monitoring & Visualization
+*   **Live Raw Data Dashboard:** Real-time stream of raw sensor data for immediate environmental awareness.
+*   **Trend Analytics:** Integrated graphical tools and bar charts to visualize historical data and identify growth trends.
+*   **Vital Metrics:** 24/7 tracking of **Soil Moisture, Temperature, Humidity, pH Levels, and NPK Levels**.
 
-### 🤖 AI Analysis & Automation
-*   **Machine Learning Insights:** An integrated AI Agent interprets complex sensor data to provide actionable, crop-specific recommendations.
-*   **Closed-Loop Control:** Fully automated adjustments for irrigation, ventilation, and nutrient delivery systems based on live data triggers.
+### 🤖 AI-Driven Intelligence
+*   **AI Assistant & Reporting:** Generates comprehensive reports and provides actionable suggestions to adjust environmental values toward "AI-Suggested Target Safe Values."
+*   **AI Trust Score:** A transparency metric that quantifies the confidence of AI recommendations based on current sensor accuracy and historical patterns.
+*   **ML Harvest Prediction:** Machine Learning models that analyze specific farm map areas to predict optimal harvest days for different crops.
 
-### 📊 Dashboard & Management
-*   **Centralized Visualization:** Comprehensive data dashboards for viewing live sensor feeds and generating historical reports.
-*   **Soil Area Management:** Custom-named zones for organized database management and long-term trend analysis.
+### ⚙️ Remote Control & Precision Automation
+*   **Remote Tool Management:** Direct control over farm infrastructure, including:
+    *   **Water Sprinklers** & **Fertilizer Dispensers**
+    *   **LED Growth Lights** (with adjustable RGB spectrum bars)
+    *   **Cooling Fans** for temperature regulation
+*   **Smart Scheduling:** 
+    *   **AI Smart Schedule:** Predictive tool activation based on upcoming environmental forecasts.
+    *   **Auto Smart Schedule:** Fully autonomous "Set and Forget" routines for hands-free farm management.
 
-### 🛠️ Maintenance & Alerts
-*   **Smart Reminders:** Automated notification service every two days to ensure sensors are clean and accurate.
-*   **Sensor Damage Alerts:** Immediate notifications if a sensor fails, ensuring data integrity and hardware longevity.
+### ⚠️ Smart Alert System
+*   **Real-Time Environment Impact Alerts:** Instant notifications regarding physical environment changes that could impact crop health.
+*   **3 Critical Levels:** Alerts are categorized by severity (Low, Medium, High) to help users prioritize interventions.
+*   **Hardware Maintenance:** Proactive reminders for sensor cleaning and immediate damage alerts.
 
 ---
 
