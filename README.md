@@ -1,11 +1,9 @@
+# GreenStack Mobile App UI
 
-  # GreenStack Mobile App UI
+This is a code bundle for GreenStack Mobile App UI. The original project is available at https://www.figma.com/design/4sdP7cQnmHf2fLYwKklk5X/GreenStack-Mobile-App-UI.
 
-  This is a code bundle for GreenStack Mobile App UI. The original project is available at https://www.figma.com/design/4sdP7cQnmHf2fLYwKklk5X/GreenStack-Mobile-App-UI.
+## Running the code
 
-  ## Running the code
+Run `npm i` to install the dependencies.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
