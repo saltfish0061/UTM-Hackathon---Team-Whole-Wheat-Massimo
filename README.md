@@ -1,6 +1,7 @@
 # 🌿 GreenStack - Smart Agriculture Monitoring System
 
 [Figma Prototype](https://greenstack-prototype-massimo.figma.site/)
+[Video Presentation Link]()
 
 GreenStack is a cutting-edge smart farming solution designed to optimize crop health through real-time data analysis, AI-driven insights, and automated environmental control. This repository contains the **Mobile App UI Prototype**, built to visualize the seamless integration between IoT hardware and user-centric data management.
 
